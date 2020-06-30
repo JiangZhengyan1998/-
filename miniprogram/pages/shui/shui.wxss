@@ -1,0 +1,36 @@
+/* pages/shui/shui.wxss */
+.div1 {
+  width: 750rpx;
+  height: 200rpx;
+  background-color: #3D6AF2;
+  color: #fff;
+  font-size: 50rpx;
+  text-align: center;
+  line-height: 200rpx;
+}
+.div2 {
+  position: absolute;
+  top: 320rpx;
+  left: 130rpx;
+  width: 200rpx;
+  height: 200rpx;
+  background-color: #3D6AF2;
+  color: #fff;
+  font-size: 40rpx;
+  border-radius: 20rpx;
+  text-align: center;
+  line-height: 200rpx;
+}
+.div3 {
+  position: absolute;
+  top: 320rpx;
+  right: 130rpx;
+  width: 200rpx;
+  height: 200rpx;
+  background-color: #3D6AF2;
+  color: #fff;
+  font-size: 40rpx;
+  border-radius: 20rpx;
+  text-align: center;
+  line-height: 200rpx;
+}

@@ -1,0 +1,6 @@
+<!--pages/men/men.wxml-->
+<view class="div1">门</view>
+<view class="div2"><text space="nbsp">锁门            </text><switch checked="{{switch1Checked}}" bindchange="switch1Change" color="#3D6AF2"/></view>
+<view class="div3"><text space="nbsp">解锁            </text><switch checked="{{switch2Checked}}" bindchange="switch2Change" color="#3D6AF2"/></view>
+<view class="div4"><text space="nbsp">开门            </text><switch checked="{{switch3Checked}}" bindchange="switch3Change" color="#3D6AF2"/></view>
+<view class="div5"><text space="nbsp">关门            </text><switch checked="{{switch4Checked}}" bindchange="switch4Change" color="#3D6AF2"/></view>

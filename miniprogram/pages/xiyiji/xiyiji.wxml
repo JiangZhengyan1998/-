@@ -1,0 +1,8 @@
+<!--pages/xiyiji/xiyiji.wxml-->
+<view class="div1">洗衣机</view>
+<view class="div2">1号洗衣机\n未在工作</view>
+<view class="div3">2号洗衣机\n未在工作</view>
+<view class="div4">3号洗衣机\n工作中\n剩余时间20分钟</view>
+<view class="div5">4号热水机\n工作中\n剩余时间30分钟</view>
+<view class="div6">5号热水机\n工作中\n剩余时间10分钟</view>
+<view class="div7">6号热水机\n工作中\n剩余时间5分钟</view>

@@ -1,0 +1,7 @@
+<!--pages/yixieshiwu/yixieshiwu.wxml-->
+<view class="div1" bindtap="lingshi">零食</view>
+<view class="div2" bindtap="reshuiji">热水机</view>
+<view class="div3" bindtap="xiyiji">洗衣机</view>
+<view class="div4" bindtap="zidongshoumaiji">自动售卖机</view>
+<view class="div5" bindtap="guzhangbaoxiu">故障报修</view>
+<view class="div6" bindtap="fanhuishouye">返回首页</view>

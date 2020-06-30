@@ -1,0 +1,24 @@
+<!--pages/lingshi/lingshi.wxml-->
+<view class="div1">零食</view>
+<text>\n</text>
+<view class="neirong">
+  <text>同学你好，零食和一些日用品菜单在下方，买东西的话在菜单下方留言就好😁。货到付款。\n</text>
+  <view class="caidan">
+    <text>\n菜单\n</text>
+    <text space="nbsp">xxx-x元          xxx-x元          xxx-x元\n</text>
+    <text space="nbsp">xxx-x元          xxx-x元          xxx-x元\n</text>
+    <text space="nbsp">xxx-x元          xxx-x元          xxx-x元\n</text>
+    <text space="nbsp">xxx-x元          xxx-x元          xxx-x元\n</text>
+    <text space="nbsp">xxx-x元          xxx-x元          xxx-x元\n</text>
+    <text space="nbsp">xxx-x元          xxx-x元          xxx-x元\n</text>
+    <text space="nbsp">xxx-x元          xxx-x元          xxx-x元\n</text>
+    <text space="nbsp">xxx-x元          xxx-x元          xxx-x元\n</text>
+    <text space="nbsp">xxx-x元          xxx-x元          xxx-x元\n</text>
+    <text space="nbsp">xxx-x元          xxx-x元          xxx-x元\n</text>
+  </view>
+    <text>\n请输入留言：</text>
+    <textarea placeholder="在这里输入" auto-height />
+    <button bindtap="fasong">发送</button>
+    
+</view>
+

@@ -1,0 +1,4 @@
+<!--pages/shui/shui.wxml-->
+<view class="div1">水</view>
+<view class="div2">饮水机烧水</view>
+<view class="div3">热水器烧水</view>

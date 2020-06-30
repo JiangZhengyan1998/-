@@ -1,0 +1,17 @@
+<!--pages/sushe/sushe.wxml-->
+<view>
+  <view class="div1"></view>  
+  <view class="div2">
+    <view class="font">
+      <view class="menpaihao">2020室</view>
+      <view class="wendu">22℃</view>
+    </view>
+  </view>  
+  <view class="div3"></view>
+  <view class="div4" bindtap="men">门</view>
+  <view class="div5" bindtap="chuang">窗</view>
+  <view class="div6" bindtap="deng">灯</view>
+  <view class="div7" bindtap="kongtiao">空调</view>
+  <view class="div8" bindtap="shui">水</view>
+  <view class="div9" bindtap="fanhuishouye">返回首页</view>
+</view>

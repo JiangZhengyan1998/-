@@ -1,0 +1,9 @@
+<!--pages/zidongshoumaiji/zidongshoumaiji.wxml-->
+<view class="div1">自动售卖机</view>
+<text>\n建议去买东西之前看看库存哦🍦\n</text>
+<view class="div2" bindtap="zidongshoumaiji_1">1号自动售卖机</view>
+<view class="div3" bindtap="zidongshoumaiji_2">2号自动售卖机</view>
+<view class="div4" bindtap="zidongshoumaiji_3">3号自动售卖机</view>
+<view class="div5" bindtap="zidongshoumaiji_4">4号自动售卖机</view>
+<view class="div6" bindtap="zidongshoumaiji_5">5号自动售卖机</view>
+<view class="div7" bindtap="zidongshoumaiji_6">6号自动售卖机</view>

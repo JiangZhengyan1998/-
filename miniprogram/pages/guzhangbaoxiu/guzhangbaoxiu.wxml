@@ -1,0 +1,6 @@
+<!--pages/guzhangbaoxiu/guzhangbaoxiu.wxml-->
+<view class="div1">故障报修</view>
+<text>\n同学请将要报修的详细情况填入下方，我们会尽快安排维护人员为您服务🤝\n</text>
+<text>\n请输入留言：</text>
+<textarea placeholder="在这里输入" auto-height />
+<button bindtap="fasong">发送</button>

@@ -1,0 +1,8 @@
+<!--pages/deng/deng.wxml-->
+<view class="div1">灯</view>
+<view class="div2"><text space="nbsp">一号灯           </text><switch checked="{{switch1Checked}}" bindchange="switch1Change" color="#3D6AF2"/></view>
+<view class="div3"><text space="nbsp">二号灯           </text><switch checked="{{switch2Checked}}" bindchange="switch2Change" color="#3D6AF2"/></view>
+<view class="div4"><text space="nbsp">三号灯           </text><switch checked="{{switch3Checked}}" bindchange="switch3Change" color="#3D6AF2"/></view>
+<view class="div5"><text space="nbsp">四号灯           </text><switch checked="{{switch4Checked}}" bindchange="switch4Change" color="#3D6AF2"/></view>
+<view class="div6"><text space="nbsp">五号灯           </text><switch checked="{{switch5Checked}}" bindchange="switch4Change" color="#3D6AF2"/></view>
+<view class="div7"><text space="nbsp">六号灯           </text><switch checked="{{switch6Checked}}" bindchange="switch4Change" color="#3D6AF2"/></view>

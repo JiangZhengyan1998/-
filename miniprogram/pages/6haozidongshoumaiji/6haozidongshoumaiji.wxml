@@ -1,0 +1,15 @@
+<!--pages/6haozidongshoumaiji/6haozidongshoumaiji.wxml-->
+<view class="kucun">
+  <text>\n当前库存\n</text>
+  <text space="nbsp">xxx-x个          xxx-x个          xxx-x个\n</text>
+  <text space="nbsp">xxx-x个          xxx-x个          xxx-x个\n</text>
+  <text space="nbsp">xxx-x个          xxx-x个          xxx-x个\n</text>
+  <text space="nbsp">xxx-x个          xxx-x个          xxx-x个\n</text>
+  <text space="nbsp">xxx-x个          xxx-x个          xxx-x个\n</text>
+  <text space="nbsp">xxx-x个          xxx-x个          xxx-x个\n</text>
+  <text space="nbsp">xxx-x个          xxx-x个          xxx-x个\n</text>
+  <text space="nbsp">xxx-x个          xxx-x个          xxx-x个\n</text>
+  <text space="nbsp">xxx-x个          xxx-x个          xxx-x个\n</text>
+  <text space="nbsp">xxx-x个          xxx-x个          xxx-x个\n</text>
+  <text space="nbsp">xxx-x个          xxx-x个          xxx-x个\n</text>
+</view>

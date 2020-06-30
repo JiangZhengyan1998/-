@@ -1,0 +1,8 @@
+<!--pages/kongtiao/kongtiao.wxml-->
+<view class="div1">空调</view>
+<view class="div2">开/关</view>
+<view class="div3">风速</view>
+<view class="div4">温度+</view>
+<view class="div5">温度-</view>
+<view class="div6">净化空气</view>
+<view class="div7">定时关闭</view>

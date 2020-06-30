@@ -1,0 +1,88 @@
+/* pages/zidongshoumaiji/zidongshoumaiji.wxss */
+.div1 {
+  width: 750rpx;
+  height: 200rpx;
+  background-color: #3D6AF2;
+  color: #fff;
+  font-size: 50rpx;
+  text-align: center;
+  line-height: 200rpx;
+}
+.div2 {
+  position: absolute;
+  top: 340rpx;
+  left: 130rpx;
+  width: 200rpx;
+  height: 200rpx;
+  background-color: #3D6AF2;
+  color: #fff;
+  font-size: 36rpx;
+  border-radius: 20rpx;
+  text-align: center;
+  line-height: 100rpx;
+}
+.div3 {
+  position: absolute;
+  top: 340rpx;
+  right: 130rpx;
+  width: 200rpx;
+  height: 200rpx;
+  background-color: #3D6AF2;
+  color: #fff;
+  font-size: 40rpx;
+  border-radius: 20rpx;
+  text-align: center;
+  line-height: 100rpx;
+}
+.div4 {
+  position: absolute;
+  top: 570rpx;
+  left: 130rpx;
+  width: 200rpx;
+  height: 200rpx;
+  background-color: #3D6AF2;
+  color: #fff;
+  font-size: 40rpx;
+  border-radius: 20rpx;
+  text-align: center;
+  line-height: 100rpx;
+}
+.div5 {
+  position: absolute;
+  top: 570rpx;
+  right: 130rpx;
+  width: 200rpx;
+  height: 200rpx;
+  background-color: #3D6AF2;
+  color: #fff;
+  font-size: 40rpx;
+  border-radius: 20rpx;
+  text-align: center;
+  line-height: 100rpx;
+}
+.div6 {
+  position: absolute;
+  top: 800rpx;
+  left: 130rpx;
+  width: 200rpx;
+  height: 200rpx;
+  background-color: #3D6AF2;
+  color: #fff;
+  font-size: 40rpx;
+  border-radius: 20rpx;
+  text-align: center;
+  line-height: 100rpx;
+}
+.div7 {
+  position: absolute;
+  top: 800rpx;
+  right: 130rpx;
+  width: 200rpx;
+  height: 200rpx;
+  background-color: #3D6AF2;
+  color: #fff;
+  font-size: 40rpx;
+  border-radius: 20rpx;
+  text-align: center;
+  line-height: 100rpx;
+}

@@ -1,0 +1,9 @@
+<!--pages/reshuiji/reshuiji.wxml-->
+<view class="div1">热水机</view>
+<text>\n友情提示：别用手试高温度的水温，烫\n</text>
+<view class="div2">1号热水机\n100℃</view>
+<view class="div3">2号热水机\n100℃</view>
+<view class="div4">3号热水机\n60℃</view>
+<view class="div5">4号热水机\n70℃</view>
+<view class="div6">5号热水机\n100℃</view>
+<view class="div7">6号热水机\n100℃</view>

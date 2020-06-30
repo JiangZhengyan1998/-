@@ -1,0 +1,4 @@
+/* pages/1haozidongshoumaiji/1haozidongshoumaiji.wxss */
+.kucun {
+  text-align: center;
+}
